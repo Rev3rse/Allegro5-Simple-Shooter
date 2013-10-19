@@ -14,6 +14,14 @@ Main principles contianed within the game:
    1. Keyboard listeners.
    2. Timers.
    3. Image manipulation & drawing.
-   4. display.
+   4. display(fliping, drawing, color manipulation, etc.).
++ Basic box collision algorithm .
++ Basic Area collision algorithm.
++ Differnet kind of bullets(Flare, Explosion, Gravity)
++ Very simple enemy AI.
++ And a lot more...
 
   
+  
+This is NOT a fully functional game, as it's intended to be built upon and studied.
+
