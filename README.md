@@ -11,9 +11,9 @@ Main principles contianed within the game:
 
 + FPS(Frames Per Second).
 + Various Allegro5 componenets, including: 
-...1. Keyboard listeners.
-...1. Timers.
-...1. Image manipulation & drawing.
-...1. display.
+⋅⋅1. Keyboard listeners.
+⋅⋅2. Timers.
+⋅⋅3. Image manipulation & drawing.
+⋅⋅4. display.
 
   
