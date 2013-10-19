@@ -6,7 +6,7 @@ created for the sake of illustrating the essential principles of game developmen
 library, Allegro5.
 
 
-Main principles contianed within the game:  
+Concepts touched in this game 
 ==========================================
 
 + FPS(Frames Per Second).
