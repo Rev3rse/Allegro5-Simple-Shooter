@@ -23,5 +23,5 @@ Concepts touched in this game
 
   
   
-This is NOT a fully functional game, as it's intended to be built upon and studied.
+This is NOT a fully functional game, it's intended to be built upon.
 
